@@ -1,50 +1,27 @@
-# Welcome to your Expo app 👋
+# Overview
+This is a mobile workout app that was created using React Native. I wanted to create a mobile app that would allow you to create your own workout routines with your own cutom exercises in it. I workout out frequently and I wanted to create my own custom app that I could use to track my workouts. 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-## Get started
+[Code Walkthrough Video](https://youtu.be/pl4UEik4S_o)
+[App Demo Video](https://youtube.com/shorts/QThdh2-4T0U)
 
-1. Install dependencies
+# Development Environment
+Core Framework
+* Expo - React Native framework for building IOS, Android, and web apps
+* React - UI Library 
+* React Native - Mobile Framework
+* React DOM - Web Rendering
+* TypeScript 
 
-   ```bash
-   npm install
-   ```
+# Useful Websites
 
-2. Start the app
+{Make a list of websites that you found helpful in this project}
+* [React Native Website](https://reactnative.dev/)
+* [React Native Courses](https://www.reactnativeschool.com/)
 
-   ```bash
-   npx expo start
-   ```
+# Future Work
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+{Make a list of things that you need to fix, improve, and add in the future.}
+* I want to add a feature that will already have workout routines premade for beginner lifters
+* I want to add pictures that will show how to do certain excercises to reference
