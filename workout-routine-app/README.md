@@ -3,8 +3,8 @@ This is a mobile workout app that was created using React Native. I wanted to cr
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-[Code Walkthrough Video](https://youtu.be/pl4UEik4S_o)
-[App Demo Video](https://youtube.com/shorts/QThdh2-4T0U)
+* [Code Walkthrough Video](https://youtu.be/pl4UEik4S_o)
+* [App Demo Video](https://youtube.com/shorts/QThdh2-4T0U)
 
 # Development Environment
 Core Framework
